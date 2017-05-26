@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>動物認養查詢</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<div class="header">
+		<div class="descripe">
+			<div class="container clearfix">
+				<div class="img">
+					<img src="image/adopt.png" alt="">
+				</div>
+
+				<h1>寵物認養資訊</h1>
+				<span class="title">一個愛的機會，認養代替購買</span>
+				<p>在流浪動物問題嚴重的台灣，「領養代替購買」這句口號早已傳得沸沸揚揚，但認養時又有多少人願意承受流浪動物可能會有的殘缺與心靈創傷？可能不只是你認養的一個生命，而是造福更多動物，甚至可能影響整個繁殖業的興衰，最後改變的可能不只是流浪動物的一生，而是自己也說不定。一切的一切，都要真的領養以後，才能明白箇中美好。</p>
+			</div>
+		</div>
+
+		<div class="steps">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 step">
+						<h3>step1</h3>
+						<p>在認養之前，請先確認本身有認養的意願，且有足夠的耐心與能力教導毛小孩以及負擔將來可能的費用，領後的二度棄養對於毛小孩是很受傷的。</p>
+					</div>
+					<div class="col-sm-4 step">
+						<h3>step2</h3>
+						<p>點選下列按鈕，開始篩選各種條件觀看待領養寵物資料</p>
+					</div>
+					<div class="col-sm-4 step">
+						<h3>step3</h3>
+						<p>填寫官方文件，並核對文件及必要之健康檢查，如有疑問請參考下列網站說明<a href="http://www.tcapo.gov.taipei/ct.asp?xItem=111253806&CtNode=69670&mp=105033" target="_blank">臺北市動物保護處</a></p>	
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="content">
+		<div class="box">
+			<input type="button" class="btn" value="開始篩選資料！" style="outline:none;">
+		</div>
+
+		<div class="placechoose">
+			<div class="north place">
+				<h3>北部地區</h3>
+				<form>
+					<select class="city northcity">
+					<option value="choose">--</option>
+					<option value="臺北市">台北市</option>
+					<option value="新北市">新北市</option>
+					<option value="基隆市">基隆市</option>
+					<option value="桃園市">桃園市</option>
+					<option value="新竹市">新竹市</option>
+					<option value="新竹縣">新竹縣</option>
+					<option value="苗栗縣">苗栗縣</option>
+					</select>
+				</form>
+			</div>
+
+			<div class="center place">
+				<h3>中部地區</h3>
+				<form>
+					<select class="city centercity">
+					<option value="choose">--</option>
+					<option value="臺中市">台中市</option>
+					<option value="彰化縣">彰化縣</option>
+					<option value="南投縣">南投縣</option>
+					<option value="雲林縣">雲林縣</option>
+					</select>
+				</form>
+			</div>
+
+			<div class="south place">
+				<h3>南部地區</h3>
+				<form>
+					<select class="city southcity">
+					<option value="choose">--</option>
+					<option value="嘉義市">嘉義市</option>
+					<option value="嘉義縣">嘉義縣</option>
+					<option value="臺南市">台南市</option>
+					<option value="高雄市">高雄市</option>
+					<option value="屏東縣">屏東縣</option>
+					</select>
+				</form>
+			</div>
+
+			<div class="other place">
+				<h3>其他地區</h3>
+				<form>
+					<select class="city othercity">
+					<option value="choose">--</option>
+					<option value="宜蘭縣">宜蘭縣</option>
+					<option value="花蓮縣">花蓮縣</option>
+					<option value="澎湖縣">澎湖縣</option>
+					<option value="臺東縣">台東縣</option>
+					<option value="連江縣">連江縣</option>
+					</select>
+				</form>
+			</div>
+		</div>
+		
+		<div class="choose">
+			<form>
+				<div class="section">
+					<span>寵物類別</span>	
+					<select class="spe">
+						<option value="貓">貓</option>
+						<option value="狗">狗</option>
+						<option value="鴿子">鴿子</option>
+					</select>
+				</div>
+			</form>
+
+			<form>
+				<div class="section">
+					<span>寵物性別</span>	
+					<select class="sex">
+						<option value="M">公</option>
+						<option value="F">母</option>
+					</select>
+				</div>
+			</form>
+				
+			<form>
+				<div class="section">
+					<span>寵物大小</span>	
+					<select class="size">
+						<option value="MINI">mini</option>
+						<option value="SMALL">small</option>
+						<option value="MEDIUM">medium</option>
+						<option value="BIG">big</option>
+					</select>
+				</div>
+			</form>
+		</div>
+
+		<button class="confirm">確認</button>
+
+		<ul class="list">
+
+		</ul>
+	</div>
+
+
+
+	<div class="footer">
+		<span>資料來源：<a href="http://data.gov.tw/">政府資料開放平台</a></span>
+	</div>
+	<script src="js/jquery.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>

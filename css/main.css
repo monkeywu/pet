@@ -1,0 +1,182 @@
+body {
+  background-image: url("../image/pet_bg.png");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+a {
+  transition: all 0.4s;
+}
+a:hover {
+  text-decoration: none;
+}
+select {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  padding: 10px 14px;
+  outline: none;
+  background: url("http://ourjs.github.io/static/2015/arrow.png") no-repeat scroll right center transparent;
+}
+.header {
+  text-align: center;
+}
+.header .descripe {
+  text-align: right;
+}
+.header .descripe .img {
+  float: left;
+  width: 30%;
+  position: relative;
+  top: 100px;
+  left: 35%;
+}
+.header .descripe .img img {
+  width: 100%;
+  height: auto;
+}
+.header .descripe h1 {
+  margin-top: 100px;
+  font-size: 42px;
+}
+.header .descripe span {
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+}
+.header .descripe p {
+  width: 25%;
+  float: right;
+  text-align: left;
+  font-size: 21px;
+}
+.step {
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: rgba(0,0,0,0.1);
+  width: 30%;
+  height: 185px;
+  position: relative;
+  left: 5%;
+  margin: 20px 20px 0 0;
+  transition: all 0.4s;
+}
+.step:hover {
+  background: #111;
+  color: #fff;
+}
+.step a {
+  font-size: 16px;
+}
+.step a:hover {
+  color: #fff;
+}
+.box {
+  text-align: center;
+  margin-top: 50px;
+}
+.box .btn {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 1px solid #111;
+  background-color: #111;
+  color: #fff;
+  outline: none;
+}
+.list {
+  padding: 50px 0;
+}
+.content {
+  text-align: center;
+}
+.placechoose {
+  padding: 50px 0;
+  display: none;
+  transition: all 0.5s;
+}
+.north,
+.center,
+.south,
+.other {
+  width: 50%;
+  border: 2px solid #111;
+  margin: 30px auto;
+  display: inline-block;
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 20px;
+}
+.north select,
+.center select,
+.south select,
+.other select {
+  margin-bottom: 20px;
+}
+.city {
+  display: none;
+}
+.choose {
+  width: 50%;
+  border: 2px solid #111;
+  border-radius: 20px;
+  background-color: rgba(0,0,0,0.1);
+  margin: 0 auto;
+  display: none;
+  transition: all 0.5s;
+}
+.choose .section {
+  margin: 30px 0;
+}
+.choose .section span {
+  margin-right: 15px;
+  font-size: 18px;
+}
+.confirm {
+  display: none;
+  margin-top: 50px;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 1px solid #333;
+  background: #333;
+  color: rgba(255,255,255,0.8);
+}
+.list {
+  text-align: center;
+}
+.list li {
+  width: 40%;
+  display: inline-block;
+  padding: 0 15px;
+  border: 1px solid #333;
+  margin: 15px;
+}
+.list li .top {
+  padding: 100px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 10px;
+}
+.list li span {
+  display: block;
+  margin-bottom: 10px;
+}
+.footer {
+  margin-top: 100px;
+  height: 100px;
+  background-color: rgba(0,0,0,0.1);
+  color: #111;
+  text-align: center;
+  font-size: 16px;
+}
+.footer span {
+  line-height: 100px;
+}
+.footer span a {
+  color: #111;
+}
+.footer span a:hover {
+  color: #fff;
+}
