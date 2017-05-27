@@ -93063,24 +93063,24 @@ function click(){
 	 var size = document.querySelector('.size').value;
 	 var list = document.querySelector('.list');
 	 var str='';
-	 var count = 0;
+	 var count = [];
 	 var once = true;
 	 for (var i = 0; i < data.length; i++) {
 	 	var shelter_address = data[i].shelter_address;
 	 	var decide = ((shelter_address.indexOf(northcity) !== -1 || shelter_address.indexOf(centercity)!== -1 || shelter_address.indexOf(southcity) !== -1 || shelter_address.indexOf(othercity) !== -1)&& sex == data[i].animal_sex && size == data[i].animal_bodytype && spe == data[i].animal_kind);
 	 	var nofind = (northcity == 'choose' && centercity == 'choose' && southcity == 'choose' && othercity == 'choose');
             if(decide) {
-            	count++;
           		str += '<li><h3>'+data[i].shelter_name+'</h3><div class="top" style="background-image:url('+data[i].album_file+'"></div><span>目前地址：'+data[i].shelter_address+'</span><span>聯絡電話：'+data[i].shelter_tel+'</span></li>';
+          		count.push(str);
             } else if(nofind && once){
             	once = false 
             	console.log(nofind);
             	alert('沒有選地區！');
-            } else if (count === 0  && once){
-            	once = false
-            	alert('沒有符合資料！');
-            }
+            } 
             };
        list.innerHTML = str;
+       if (str == '' && !nofind) {
+       	alert('沒有符合資料！');
+       }
     };
 
