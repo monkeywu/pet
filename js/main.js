@@ -93073,7 +93073,6 @@ function click(){
 	 	var nofind = (northcity == 'choose' && centercity == 'choose' && southcity == 'choose' && othercity == 'choose');
             if(decide) {
           		str += '<li><h3>'+data[i].shelter_name+'</h3><div class="top" style="background-image:url('+data[i].album_file+'"></div><span>目前地址：'+data[i].shelter_address+'</span><span>聯絡電話：'+data[i].shelter_tel+'</span></li>';
-          		count.push(str);
             } else if(nofind && once){
             	once = false 
             	console.log(nofind);
