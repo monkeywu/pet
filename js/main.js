@@ -93032,27 +93032,28 @@ var data =
     "shelter_tel": "02-89662158"
   }
 ]
-
+//   控制選擇區域  //
 $('.place').click(function(event) {
     event.preventDefault();
     $(this).siblings().find('select').slideUp();
     $(this).find('select').slideToggle();
   });
-
+//   點擊跑出選單 //
 $('.btn').click(function(){
 	$('.placechoose').fadeIn();
 	$('.choose').fadeIn();
 	$('.confirm').fadeIn();
 })
 
-
+//  不讓選擇selec時觸發.place的click() //
 $('.city').click(function(e){
 	e.stopPropagation();
 })
 
-var confirm = document.querySelector('.confirm');
 
+var confirm = document.querySelector('.confirm');
 confirm.addEventListener('click',click,false)
+
 function click(){
 	 var northcity = document.querySelector('.northcity').value;
 	 var centercity = document.querySelector('.centercity').value;
@@ -93063,11 +93064,12 @@ function click(){
 	 var size = document.querySelector('.size').value;
 	 var list = document.querySelector('.list');
 	 var str='';
-	 var count = [];
 	 var once = true;
 	 for (var i = 0; i < data.length; i++) {
 	 	var shelter_address = data[i].shelter_address;
+	 	// 因不知使用者選擇哪個區域，故有一個區域丟進data符合即可 //
 	 	var decide = ((shelter_address.indexOf(northcity) !== -1 || shelter_address.indexOf(centercity)!== -1 || shelter_address.indexOf(southcity) !== -1 || shelter_address.indexOf(othercity) !== -1)&& sex == data[i].animal_sex && size == data[i].animal_bodytype && spe == data[i].animal_kind);
+	 	//  四個區域都為預設值，代表沒選區域 //
 	 	var nofind = (northcity == 'choose' && centercity == 'choose' && southcity == 'choose' && othercity == 'choose');
             if(decide) {
           		str += '<li><h3>'+data[i].shelter_name+'</h3><div class="top" style="background-image:url('+data[i].album_file+'"></div><span>目前地址：'+data[i].shelter_address+'</span><span>聯絡電話：'+data[i].shelter_tel+'</span></li>';
