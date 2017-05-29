@@ -159,7 +159,7 @@ function click(){
 	 var sex = document.querySelector('.sex').value;
 	 var size = document.querySelector('.size').value;
 	 var list = document.querySelector('.list');
-     var cityarray = [northcity,cityarray,southcity,othercity];
+     var cityarray = [northcity,centercity,southcity,othercity];
 	 var str='';
 	 var once = true;
         for(var j = 0;j<cityarray.length;j++){
