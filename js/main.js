@@ -1,7 +1,7 @@
 var xhr = new XMLHttpRequest();
 xhr.open('get','https://monkeywu.github.io/data.json',false);
 xhr.send('null');
-var data = xhr.responseText;
+var data = JSON.parse(xhr.responseText);
 
 // 收容所經緯度資訊 //
 var mapdata = [
@@ -166,7 +166,7 @@ function click(){
     	 for (var i = 0; i < data.length; i++) {
     	 	var shelter_address = data[i].shelter_address;
     	 	// 篩選選擇哪些區域，及種類、性別、大小 //
-    	 	var decide = ((shelter_address.indexOf(cityarray[j]) !== -1 )&& sex == data[i].animal_sex && size == data[i].animal_bodytype && spe == data[i].animal_kind);
+    	 	var decide = (shelter_address.indexOf(cityarray[j]) !== -1 && sex == data[i].animal_sex && size == data[i].animal_bodytype && spe == data[i].animal_kind);
     	 	//  四個區域都為預設值，代表沒選區域 //
     	 	var nofind = (northcity == 'choose' && centercity == 'choose' && southcity == 'choose' && othercity == 'choose');
                 if(decide) {
