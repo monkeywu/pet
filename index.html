@@ -13,7 +13,6 @@
 				<div class="img">
 					<img src="image/adopt.png" alt="">
 				</div>
-
 				<h1>寵物認養資訊</h1>
 				<span class="title">一個愛的機會，認養代替購買</span>
 				<p>在流浪動物問題嚴重的台灣，「領養代替購買」這句口號早已傳得沸沸揚揚，但認養時又有多少人願意承受流浪動物可能會有的殘缺與心靈創傷？可能不只是你認養的一個生命，而是造福更多動物，甚至可能影響整個繁殖業的興衰，最後改變的可能不只是流浪動物的一生，而是自己也說不定。一切的一切，都要真的領養以後，才能明白箇中美好。</p>
@@ -29,11 +28,11 @@
 					</div>
 					<div class="col-sm-4 step">
 						<h3>step2</h3>
-						<p>點選下列按鈕，開始篩選各種條件觀看待領養寵物資料</p>
+						<p>點選下列按鈕，開始篩選各種條件觀看待領養寵物資料。</p>
 					</div>
 					<div class="col-sm-4 step">
 						<h3>step3</h3>
-						<p>填寫官方文件，並核對文件及必要之健康檢查，如有疑問請參考下列網站說明<a href="http://www.tcapo.gov.taipei/ct.asp?xItem=111253806&CtNode=69670&mp=105033" target="_blank">臺北市動物保護處</a></p>	
+						<p>填寫官方文件，並核對文件及必要之健康檢查，如有疑問請參考下列網站說明<a href="http://www.tcapo.gov.taipei/ct.asp?xItem=111253806&CtNode=69670&mp=105033" target="_blank">臺北市動物保護處</a>。</p>	
 					</div>
 				</div>
 			</div>
@@ -41,6 +40,8 @@
 	</div>
 
 	<div class="content">
+		<div id="map"></div>
+		<div class="close_map"><a href="#">X</a></div>
 		<div class="box">
 			<input type="button" class="btn" value="開始篩選資料！" style="outline:none;">
 		</div>
@@ -147,11 +148,13 @@
 	</div>
 
 
-
 	<div class="footer">
 		<span>資料來源：<a href="http://data.gov.tw/">政府資料開放平台</a></span>
 	</div>
 	<script src="js/jquery.js"></script>
 	<script src="js/main.js"></script>
+		 <script async defer
+	      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUEnJYI9aa6XE_G1QpfmfdxS_ZUj7EEXQ&callback=initMap">
+	 </script>
 </body>
 </html>

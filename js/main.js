@@ -679,7 +679,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:44.673",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -803,7 +803,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:13.393",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -2105,7 +2105,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:51.78",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -3128,7 +3128,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.44",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -3159,7 +3159,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.58",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -3221,7 +3221,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:41.117",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -3252,7 +3252,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:51.83",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4182,7 +4182,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:31.603",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4275,7 +4275,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:59.37",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4337,7 +4337,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:15.233",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4368,7 +4368,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:15.957",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4430,7 +4430,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:17.197",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4523,7 +4523,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:18.263",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4554,7 +4554,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:24.187",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4585,7 +4585,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.253",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4864,7 +4864,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:45.02",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -4957,7 +4957,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:46.177",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -5019,7 +5019,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:44.72",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -5081,7 +5081,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:52.017",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -5205,7 +5205,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:54.17",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -5732,7 +5732,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:25.793",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -5856,7 +5856,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:55.707",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -6662,7 +6662,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:51.767",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -6817,7 +6817,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:51.75",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -8615,7 +8615,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:22.487",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -8646,7 +8646,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:46.937",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -8677,7 +8677,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:16.487",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -8739,7 +8739,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:31.02",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -8832,7 +8832,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:45.3",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -8863,7 +8863,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:46.577",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -9266,7 +9266,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:55.597",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -10444,7 +10444,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:49.423",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -13110,7 +13110,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:41.257",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -13141,7 +13141,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:01:31.563",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -13606,7 +13606,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:44.66",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -14908,7 +14908,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:48.893",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -18101,7 +18101,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:58.447",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -19186,7 +19186,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-25T23:59:25.93",
-    "shelter_address": "20653基隆市七堵區瑪西里大華三路45-12號(欣欣安樂園旁)",
+    "shelter_address": "基隆市七堵區瑪西里大華三路45-12號(欣欣安樂園旁)",
     "shelter_tel": "02-24560148"
   },
   {
@@ -19248,7 +19248,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:54.013",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -19527,7 +19527,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.707",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -20364,7 +20364,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:54.233",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -21263,7 +21263,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:53.78",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -22720,7 +22720,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:01.717",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -24487,7 +24487,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:16",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -25820,7 +25820,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:32.453",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -33446,7 +33446,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:40.79",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -35399,7 +35399,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:48.533",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -35647,7 +35647,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:00:48.23",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -43521,7 +43521,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:00:14.273",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -43862,7 +43862,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:20.737",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -44048,7 +44048,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:51.893",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -45102,7 +45102,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:00:37.43",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -45939,7 +45939,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:33.677",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -47334,7 +47334,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:32.41",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -47737,7 +47737,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:49.783",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -47768,7 +47768,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:48.537",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -48481,7 +48481,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:00.18",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -48729,7 +48729,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:22.44",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -49163,7 +49163,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.987",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -49876,7 +49876,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:32.237",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -50992,7 +50992,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:13.44",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -51023,7 +51023,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:59.48",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -51519,7 +51519,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:51.8",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -51736,7 +51736,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:59.26",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -54495,7 +54495,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:32.97",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -55084,7 +55084,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:41.953",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -58494,7 +58494,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:17.133",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -60199,7 +60199,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.66",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -61377,7 +61377,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:08.877",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -62369,7 +62369,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:16.453",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -63609,7 +63609,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.91",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -64663,7 +64663,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:13.5",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -65097,7 +65097,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:48.643",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -66120,7 +66120,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:35.387",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -69313,7 +69313,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:58.51",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -71421,7 +71421,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:53.653",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -72227,7 +72227,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:54.217",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -72258,7 +72258,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:23.653",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -72289,7 +72289,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:17.477",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -73622,7 +73622,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.77",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -74304,7 +74304,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:06.517",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -74614,7 +74614,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:23.787",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -74738,7 +74738,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:06.5",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -76288,7 +76288,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:54.153",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -76474,7 +76474,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:59.353",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -79543,7 +79543,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:30.19",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -81558,7 +81558,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:58.21",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -82023,7 +82023,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:58.353",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -82891,7 +82891,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:08.893",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -83604,7 +83604,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:06.487",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -85743,7 +85743,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:59.213",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -85960,7 +85960,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:31.527",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -89494,7 +89494,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:48.323",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -89525,7 +89525,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:02:51.863",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -92935,7 +92935,7 @@ var data =
     "album_base64": null,
     "album_update": null,
     "cDate": "2017-05-26T00:03:13.487",
-    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號  請於彰化縣芬園鄉大彰路一段875巷進入",
+    "shelter_address": "彰化縣員林鎮大峰里阿寶坑426號",
     "shelter_tel": "04-8590638"
   },
   {
@@ -93033,7 +93033,7 @@ var data =
   }
 ]
 //   控制選擇區域  //
-$('.place').click(function(event) {
+$('.place').hover(function(event) {
     event.preventDefault();
     $(this).siblings().find('select').slideUp();
     $(this).find('select').slideToggle();
@@ -93045,14 +93045,11 @@ $('.btn').click(function(){
 	$('.confirm').fadeIn();
 })
 
-//  不讓選擇selec時觸發.place的click() //
-$('.city').click(function(e){
-	e.stopPropagation();
-})
-
 
 var confirm = document.querySelector('.confirm');
 confirm.addEventListener('click',click,false)
+
+// 篩選條件 //
 
 function click(){
 	 var northcity = document.querySelector('.northcity').value;
@@ -93072,7 +93069,7 @@ function click(){
 	 	//  四個區域都為預設值，代表沒選區域 //
 	 	var nofind = (northcity == 'choose' && centercity == 'choose' && southcity == 'choose' && othercity == 'choose');
             if(decide) {
-          		str += '<li><h3>'+data[i].shelter_name+'</h3><div class="top" style="background-image:url('+data[i].album_file+'"></div><span>目前地址：'+data[i].shelter_address+'</span><span>聯絡電話：'+data[i].shelter_tel+'</span></li>';
+          		str += '<li><h3>'+data[i].shelter_name+'</h3><div class="top" style="background-image:url('+data[i].album_file+'"></div><span>目前地址：'+'<a href="#" class="gomap">'+data[i].shelter_address+'</a></span><span>聯絡電話：'+data[i].shelter_tel+'</span></li>';
             } else if(nofind && once){
             	once = false 
             	console.log(nofind);
@@ -93084,4 +93081,193 @@ function click(){
        	alert('沒有符合資料！');
        }
     };
+
+// google map //
+var map;
+
+
+// 收容所經緯度資訊 //
+var mapdata = [
+{
+    position:{lat:25.0631158,lng:121.6067468},
+    address:'臺北市內湖區潭美街852號'
+},
+{
+    position:{lat:22.9367418,lng:120.1922241},
+    address:'臺南市南區省躬里14鄰萬年路580巷92號'
+},
+{
+    position:{lat:24.1476986,lng:120.5730763},
+    address:'臺中市南屯區中台路601號'
+},
+{
+    position:{lat:25.0040768,lng:121.4581243},
+    address:'新北市板橋區四川路1段157巷2號'
+},
+{
+    position:{lat:25.0081159,lng:121.0257343},
+    address:'桃園市新屋區永興里大牛欄 117 號'
+},
+{
+    position:{lat:24.9271594,lng:121.4886195},
+    address:'新北市新店區安泰路235號'
+},
+{
+    position:{lat:23.6983039,lng:120.5237493},
+    address:'雲林縣斗六市雲林路二段517號'
+},
+{
+    position:{lat:23.9691965,lng:120.617542},
+    address:'彰化縣員林鎮大峰里阿寶坑426號'
+},
+{
+    position:{lat:25.0777076,lng:121.4135917},
+    address:'新北市五股區外寮路9-9號'
+},
+{
+    position:{lat:22.7926857,lng:120.4024744},
+    address:'高雄市燕巢區師大路98號'
+},
+{
+    position:{lat:22.6353188,lng:120.2759685},
+    address:'高雄市鼓山區萬壽路350號'
+},
+{
+    position:{lat:24.8325516,lng:120.917639},
+    address:'新竹市南寮里海濱路250號'
+},
+{
+    position:{lat:24.9755836,lng:121.4866429},
+    address:'新北市中和區興南路三段100號'
+},
+{
+    position:{lat:24.5860428,lng:120.8042099},
+    address:'苗栗縣苗栗市新川里泉水窩1號'
+},
+{
+    position:{lat:23.5474899,lng:120.5029843},
+    address:'嘉義縣民雄鄉松山村後山仔37~1號'
+},
+{
+    position:{lat:24.4440572,lng:118.4425204},
+    address:'金門縣金湖鎮裕民農莊20號'
+},
+{
+    position:{lat:24.8284632,lng:121.0128762},
+    address:'新竹縣竹北市縣政五街192號'
+},
+{
+    position:{lat:24.9957671,lng:121.4461135},
+    address:'新北市板橋區華東路1-9號'
+},
+{
+    position:{lat:23.4786598,lng:120.451332},
+    address:'嘉義市彌陀路101號旁(環保局停車場內)'
+},
+{
+    position:{lat:24.6671279,lng:121.8290163},
+    address:'宜蘭縣五結鄉成興村利寶路60號',
+},
+{
+    position:{lat:23.9287303,lng:121.5908677},
+    address:'花蓮縣吉安鄉南濱路1段599號',
+},
+{
+    position:{lat:23.5501969,lng:119.6216481},
+    address:'澎湖縣馬公市烏崁里260號',
+},
+{
+    position:{lat:25.2576535,lng:121.4986167},
+    address:'新北市三芝區中山路一段32號',
+},
+{
+    position:{lat:22.6433553,lng:120.5996635},
+    address:'屏東縣內埔鄉學府路1號(屏東科技大學內)',
+},
+{
+    position:{lat:25.0666047,lng:121.4379684},
+    address:'新北市泰山區楓江路191號',
+},
+{
+    position:{lat:23.9064403,lng:120.6706322},
+    address:'南投縣南投市嶺興路36之1號',
+},
+{
+    position:{lat:22.7321023,lng:121.0981502},
+    address:'臺東縣臺東市中華路4段900巷600號',
+},
+{
+    position:{lat:23.1488145,lng:120.3294673},
+    address:'臺南市善化區東昌里東勢寮1之19號',
+},
+{
+    position:{lat:25.0876155,lng:121.3959752},
+    address:'新北市八里區長坑村6鄰長道路36號',
+},
+{
+    position:{lat:25.1273878,lng:121.6722848},
+    address:'基隆市七堵區瑪西里大華三路45-12號(欣欣安樂園旁)',
+},
+{
+    position:{lat:26.1596598,lng:119.9360839},
+    address:'馬祖南竿鄉復興村(近機場)',
+}
+];
+
+// 預設googlemap function //
+function initMap() {
+    map = new google.maps.Map(document.getElementById('map'), {
+    center: {lat:123, lng:456},
+    zoom: 14
+    });
+}
+
+
+//  點擊地址連結叫出google地圖 //
+$('.list').on('click',$('.gomap'),function(e){
+    e.preventDefault();
+    $('#map').css('left','25%');
+    $('.close_map').css('display','block');
+    for(i=0;i<mapdata.length;i++){
+        if($('.gomap:first').text() == mapdata[i].address){
+            function initMap() {
+            var lat = mapdata[i].position.lat;
+            var lng = mapdata[i].position.lng;
+            map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat, lng},
+            zoom: 14
+            });
+
+            var marker = new google.maps.Marker({
+                position:{lat,lng},
+                map:map,
+            })
+            }
+            initMap();
+        }
+    }
+})
+
+
+// 關閉地圖 //
+$('.close_map').click(function(e){
+    e.preventDefault();
+    $('#map').css('left','-100%');
+    $('.close_map').css('display','none');
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
