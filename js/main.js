@@ -1,5 +1,5 @@
 var xhr = new XMLHttpRequest();
-xhr.open('get','https://monkeywu.github.io/data.json',true);
+xhr.open('get','https://monkeywu.github.io/data.json',false);
 xhr.send('null');
 var data = xhr.responseText;
 
