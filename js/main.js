@@ -166,7 +166,7 @@ function click(){
     	 for (var i = 0; i < data.length; i++) {
     	 	var shelter_address = data[i].shelter_address;
     	 	// 篩選選擇哪些區域，及種類、性別、大小 //
-    	 	var decide = ((shelter_address.indexOf(northcity) !== -1 )&& sex == data[i].animal_sex && size == data[i].animal_bodytype && spe == data[i].animal_kind);
+    	 	var decide = ((shelter_address.indexOf(northcity[j]) !== -1 )&& sex == data[i].animal_sex && size == data[i].animal_bodytype && spe == data[i].animal_kind);
     	 	//  四個區域都為預設值，代表沒選區域 //
     	 	var nofind = (northcity == 'choose' && centercity == 'choose' && southcity == 'choose' && othercity == 'choose');
                 if(decide) {
