@@ -26,6 +26,9 @@ select {
   width: 50%;
   transition: all 0.4s;
 }
+.gomap:hover {
+  color: #fff;
+}
 .close_map {
   position: fixed;
   z-index: 10;
