@@ -93032,59 +93032,6 @@ var data =
     "shelter_tel": "02-89662158"
   }
 ]
-//   控制選擇區域  //
-$('.place').hover(function(event) {
-    event.preventDefault();
-    $(this).siblings().find('select').slideUp();
-    $(this).find('select').slideToggle();
-  });
-//   點擊跑出選單 //
-$('.btn').click(function(){
-	$('.placechoose').fadeIn();
-	$('.choose').fadeIn();
-	$('.confirm').fadeIn();
-})
-
-
-var confirm = document.querySelector('.confirm');
-confirm.addEventListener('click',click,false)
-
-// 篩選條件 //
-
-function click(){
-	 var northcity = document.querySelector('.northcity').value;
-	 var centercity = document.querySelector('.centercity').value;
-	 var southcity = document.querySelector('.southcity').value;
-	 var othercity = document.querySelector('.othercity').value;
-	 var spe = document.querySelector('.spe').value;
-	 var sex = document.querySelector('.sex').value;
-	 var size = document.querySelector('.size').value;
-	 var list = document.querySelector('.list');
-	 var str='';
-	 var once = true;
-	 for (var i = 0; i < data.length; i++) {
-	 	var shelter_address = data[i].shelter_address;
-	 	// 因不知使用者選擇哪個區域，故有一個區域丟進data符合即可 //
-	 	var decide = ((shelter_address.indexOf(northcity) !== -1 || shelter_address.indexOf(centercity)!== -1 || shelter_address.indexOf(southcity) !== -1 || shelter_address.indexOf(othercity) !== -1)&& sex == data[i].animal_sex && size == data[i].animal_bodytype && spe == data[i].animal_kind);
-	 	//  四個區域都為預設值，代表沒選區域 //
-	 	var nofind = (northcity == 'choose' && centercity == 'choose' && southcity == 'choose' && othercity == 'choose');
-            if(decide) {
-          		str += '<li><h3>'+data[i].shelter_name+'</h3><div class="top" style="background-image:url('+data[i].album_file+'"></div><span>目前地址：'+'<a href="#" class="gomap">'+data[i].shelter_address+'</a></span><span>聯絡電話：'+data[i].shelter_tel+'</span></li>';
-            } else if(nofind && once){
-            	once = false 
-            	console.log(nofind);
-            	alert('沒有選地區！');
-            } 
-            };
-       list.innerHTML = str;
-       if (str == '' && !nofind) {
-       	alert('沒有符合資料！');
-       }
-    };
-
-// google map //
-var map;
-
 
 // 收容所經緯度資訊 //
 var mapdata = [
@@ -93212,7 +93159,60 @@ var mapdata = [
     position:{lat:26.1596598,lng:119.9360839},
     address:'馬祖南竿鄉復興村(近機場)',
 }
-];
+]
+
+//   控制選擇區域  //
+$('.place').hover(function(event) {
+    event.preventDefault();
+    $(this).siblings().find('select').slideUp();
+    $(this).find('select').slideToggle();
+  });
+//   點擊跑出選單 //
+$('.btn').click(function(){
+	$('.placechoose').fadeIn();
+	$('.choose').fadeIn();
+	$('.confirm').fadeIn();
+})
+
+
+var confirm = document.querySelector('.confirm');
+confirm.addEventListener('click',click,false)
+
+// 篩選條件 //
+
+function click(){
+	 var northcity = document.querySelector('.northcity').value;
+	 var centercity = document.querySelector('.centercity').value;
+	 var southcity = document.querySelector('.southcity').value;
+	 var othercity = document.querySelector('.othercity').value;
+	 var spe = document.querySelector('.spe').value;
+	 var sex = document.querySelector('.sex').value;
+	 var size = document.querySelector('.size').value;
+	 var list = document.querySelector('.list');
+	 var str='';
+	 var once = true;
+	 for (var i = 0; i < data.length; i++) {
+	 	var shelter_address = data[i].shelter_address;
+	 	// 因不知使用者選擇哪個區域，故有一個區域丟進data符合即可 //
+	 	var decide = ((shelter_address.indexOf(northcity) !== -1 || shelter_address.indexOf(centercity)!== -1 || shelter_address.indexOf(southcity) !== -1 || shelter_address.indexOf(othercity) !== -1)&& sex == data[i].animal_sex && size == data[i].animal_bodytype && spe == data[i].animal_kind);
+	 	//  四個區域都為預設值，代表沒選區域 //
+	 	var nofind = (northcity == 'choose' && centercity == 'choose' && southcity == 'choose' && othercity == 'choose');
+            if(decide) {
+          		str += '<li><h3>'+data[i].shelter_name+'</h3><div class="top" style="background-image:url('+data[i].album_file+'"></div><span>目前地址：'+'<a href="#" class="gomap">'+data[i].shelter_address+'</a></span><span>聯絡電話：'+data[i].shelter_tel+'</span></li>';
+            } else if(nofind && once){
+            	once = false 
+            	console.log(nofind);
+            	alert('沒有選地區！');
+            } 
+            };
+       list.innerHTML = str;
+       if (str == '' && !nofind) {
+       	alert('沒有符合資料！');
+       }
+    };
+
+// google map //
+var map;
 
 // 預設googlemap function //
 function initMap() {
