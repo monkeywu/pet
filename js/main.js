@@ -233,7 +233,7 @@ $('.list').on('click','.gomap',function(e){
     $('#map').css('left','25%');
     $('.close_map').css('display','block');
     for(i=0;i<mapdata.length;i++){
-        if($('.gomap').parent().siblings('h3').text() == mapdata[i].address){
+        if($(this).text() == mapdata[i].address){
             function initMap() {
             var lat = mapdata[i].position.lat;
             var lng = mapdata[i].position.lng;
