@@ -201,8 +201,8 @@ $('.list').on('click','.gomap',function(e){
     e.preventDefault();
     $('#map').css('left','25%');
     $('.close_map').css('display','block');
-        if($('.gomap:first').text() == mapdata[i].address){
-            for(i=0;i<mapdata.length;i++){
+    for(i=0;i<mapdata.length;i++){
+        if(this.text() == mapdata[i].address){
             function initMap() {
             var lat = mapdata[i].position.lat;
             var lng = mapdata[i].position.lng;
@@ -218,6 +218,7 @@ $('.list').on('click','.gomap',function(e){
             }
             initMap();
         }
+
     }
 })
 
